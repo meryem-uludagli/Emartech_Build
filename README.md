@@ -8,5 +8,5 @@ This repository contains the source code for the Emartech build page, created us
 - Clean & Minimalist UI: A simple yet impactful design focused on enhancing user experience.
 
 # ✨Preview
-![](./Emartech-Building.gif)# Emartech_Build
-# Emartech_Build
+![](./Emartech-Building.gif)
+
